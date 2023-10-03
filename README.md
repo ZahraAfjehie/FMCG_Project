@@ -1,4 +1,4 @@
-## Competitor Selection for FMCG products
+## Choosing Competitors for FMCG (Fast-Moving Consumer Goods) Items
 This project involves the process of selecting the top five closest competitors in the market. This selection is based on both the
 fundamental attributes of weight/volume, price and category, as well as sales-related attributes, including market share, penetration rate, and distribution rate.
 
