@@ -4,9 +4,9 @@ fundamental attributes of weight/volume, price and category, as well as sales-re
 
 The initial step involves extracting volume/weight units from product names using regular expressions, requiring a few merges and concatenations to account for various cases (numeric/alphabetic).
 Below is the result of this unit/value extraction from the product name:
-
+ <p align="center" width="100%">
 <img width="193" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/1614d14a-ca71-4260-9a89-444e8c0b7ff0">
-
+ </p>
 
 
 
@@ -14,17 +14,17 @@ Subsequently, the units are standardized. In the following step, sales-related a
 Here is an example from the project's results, displaying the leading five competitors for a particular yogurt product:
 
 
-
+ <p align="center" width="100%">
 <img width="335" alt="image" src="https://github.com/ZahraAfjehie/FMCG_Project/assets/13051084/96ef9c96-8bc4-46c2-968b-fafc73d5f7da">
-
+ </p>
 
 
 Here are the scatter plots representing clustering metrics, with different clusters depicted using varying colors to represent products within the milk, yogurt, 
 and cheese categories:
 
 
-
+ <p align="center" width="100%">
 <img width="332" alt="image" src="https://github.com/ZahraAfjehie/FMCG_Project/assets/13051084/7316d510-f12d-4479-aff4-35c264fa880d">
-
+ </p>
 
 
